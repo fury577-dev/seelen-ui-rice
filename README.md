@@ -3,7 +3,8 @@
 A minimal dark desktop setup using Seelen UI on Windows.
 
 ## Screenshots
-See the screenshots folder.
+![Rice](screenshots/rice.png)
+![Rice1](screenshots/rice1.png)
 
 ## System
 - OS: Windows 11
