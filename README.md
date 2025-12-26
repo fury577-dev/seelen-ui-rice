@@ -1,13 +1,13 @@
-# Seelene UI Desktop Rice
+# Seelen UI Desktop Rice
 
-A minimal dark desktop setup using Seelene UI on Windows.
+A minimal dark desktop setup using Seelen UI on Windows.
 
 ## Screenshots
 See the screenshots folder.
 
 ## System
 - OS: Windows 11
-- UI: Seelene UI
+- UI: Seelen UI
 - Environment: WSL Kali Linux
 
 ## Notes
@@ -15,4 +15,4 @@ See the screenshots folder.
 - Beginner setup
 
 ## Credits
-- Seelene UI developers
+- Seelen UI developers
